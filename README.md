@@ -1,6 +1,6 @@
 # DeepEval Agentic Testing Demo
 
-A hands-on teaching repo for **evaluating LLM agents with [DeepEval](https://github.com/confident-ai/deepeval)**.
+A hands-on repo for **evaluating LLM agents with [DeepEval](https://github.com/confident-ai/deepeval)**.
 
 It walks through three shapes of agentic evaluation, each with a runnable agent and a set
 of eval scripts:
